@@ -1,1 +1,1 @@
-Hey everyone! I'm Matias, currently learning JS
+Hey everyone! I'm Matias, currently learning WebGl
