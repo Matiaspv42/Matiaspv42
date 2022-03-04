@@ -17,8 +17,7 @@
  
  - PostreSQL (giving a little of love to databases)
  - React (a little of more love to the Frontend)
- - Three.js (you never stop learning about it)
+ 
 
-If you have any question feel free to contact me! 
-[LinkedIn](https://www.linkedin.com/in/mat%C3%ADas-pinto-93642a214/)
+
 
