@@ -1,7 +1,7 @@
 ## Hey everyone!
 
 
- I'm Matias from Chile, and I'm a WebDeveloper. I truly enjoy making beautiful websites where the user can feel immerse in the experience. In order to do this I like to work with
+ I'm Matias from Chile, and I'm a WebDeveloper. I enjoy making interesting websites where the user can feel immerse. In order to do this I like to work with
  
  - HTML5
  - CSS3
