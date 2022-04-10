@@ -7,15 +7,10 @@
  - CSS3
  - JavaScript
  - Three.js
- 
- Besides this I feel comfortable working with
- 
- - jQuery
- - Bootstrap
+ - Node.js + PostgreSQL for the Backend 
  
  Since I'm a very curious person I'm constantly learning new things. Currently I'm studying
  
- - PostreSQL (giving a little of love to databases)
  - React (a little of more love to the Frontend)
  
 
