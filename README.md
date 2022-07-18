@@ -12,6 +12,7 @@
  Since I'm a very curious person I'm constantly learning new things. Currently I'm studying
  
  - React (a little of more love to the Frontend)
+ - Ruby on Rails
  
 
 
