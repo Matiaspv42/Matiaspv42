@@ -6,13 +6,13 @@
  - HTML5
  - CSS3
  - JavaScript
+ - React 
  - Three.js
  - Node.js + PostgreSQL for the Backend 
  
- Since I'm a very curious person I'm constantly learning new things. Currently I'm studying
+Currently I'm learning
  
- - React (a little of more love to the Frontend)
- - Ruby on Rails
+ - Next.js
  
 
 
