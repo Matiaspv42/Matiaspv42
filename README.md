@@ -1,18 +1,13 @@
 ## Hey everyone!
 
 
-I'm a WebDeveloper. I enjoy making interesting websites where the user can feel immerse. In order to do this I like to work with
+I'm a Developer. I enjoy making interesting apps and websites, I work with: 
  
- - HTML5
- - CSS3
- - JavaScript
- - React 
+ - Flutter
+ - React
+ - Typescript
  - Three.js
- - Node.js + PostgreSQL for the Backend 
- 
-Currently I'm learning
- 
- - Next.js
+
  
 
 
